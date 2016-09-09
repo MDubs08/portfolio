@@ -1,0 +1,27 @@
+body {
+	background-color: #bdc3c7;
+}
+.jumbotron {
+	text-align: center;
+	background-color: #bdc3c7;
+}
+.container-fluid {
+	padding: 10px;
+}
+img {
+	max-width: 50%;
+    height: auto;
+	padding: 10px;
+	margin:10px;
+}
+.navbar_navbar-fixed-top {
+	background-color:bdc3c7;
+}
+.container {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+skills.div {
+	background-color: #bdc3c7;
+	color: #bdc3c7;
+}
